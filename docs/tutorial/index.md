@@ -71,3 +71,9 @@ We'll dive deeper into images later on, covering topics such as layering, best p
     filesystem is simply coming from the image. But, a container adds additional isolation not
     available when simply using chroot.
 
+## Language specific guides 
+
+!!! Pro Tip
+    To get started with different language specific tutorials such as Node.js and Python, why not check
+    out [Docker Docs](https://docs.docker.com/develop/) for guides on getting started with your language, 
+    improving your builds, setting up CI/CD and more!

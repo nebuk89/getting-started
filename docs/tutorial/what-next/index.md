@@ -2,6 +2,12 @@
 Although we're done with our workshop, there's still a LOT more to learn about containers!
 We're not going to go deep-dive here, but here are a few other areas to look at next!
 
+!!! Pro Tip
+    To get started with different language specific tutorials such as Node.js and Python, why not check
+    out [Docker Docs](https://docs.docker.com/develop/) for guides on getting started with your language, 
+    improving your builds, setting up CI/CD and more!
+
+
 ## Container Orchestration
 
 Running containers in production is tough. You don't want to log into a machine and simply run a

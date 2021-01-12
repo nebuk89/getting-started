@@ -110,3 +110,8 @@ But, guess what? We received great news!
 In order to prepare for production, we need to migrate our database from working in SQLite to something that can scale a
 little better. For simplicity, we'll keep with a relational database and switch our application to use MySQL. But, how 
 should we run MySQL? How do we allow the containers to talk to each other? We'll talk about that next!
+
+!!! Pro Tip
+    To get started with different language specific tutorials such as Node.js and Python, why not check
+    out [Docker Docs](https://docs.docker.com/develop/) for guides on getting started with your language, 
+    improving your builds, setting up CI/CD and more!

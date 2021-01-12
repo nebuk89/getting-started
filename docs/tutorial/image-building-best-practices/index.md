@@ -268,3 +268,8 @@ By understanding a little bit about how images are structured, we can build imag
 Scanning images gives us confidence that the containers we are running and distributing are secure.
 Multi-stage builds also help us reduce overall image size and increase final container security by separating
 build-time dependencies from runtime dependencies.
+
+!!! Pro Tip
+    To get started with different language specific tutorials such as Node.js and Python, why not check
+    out [Docker Docs](https://docs.docker.com/develop/) for guides on getting started with your language, 
+    improving your builds, setting up CI/CD and more!

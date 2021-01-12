@@ -357,3 +357,8 @@ using into the appropriate compose format.
 At this point, we're starting to wrap up the tutorial. However, there are a few best practices about
 image building we want to cover, as there is a big issue with the Dockerfile we've been using. So,
 let's take a look!
+
+!!! Pro Tip
+    To get started with different language specific tutorials such as Node.js and Python, why not check
+    out [Docker Docs](https://docs.docker.com/develop/) for guides on getting started with your language, 
+    improving your builds, setting up CI/CD and more!

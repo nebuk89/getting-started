@@ -90,3 +90,8 @@ Now that we have that figured out, let's circle back around to what we noticed a
 section. As a reminder, we noticed that when we restarted the app, we lost all of our todo list items.
 That's obviously not a great user experience, so let's learn how we can persist the data across 
 restarts!
+
+!!! Pro Tip
+    To get started with different language specific tutorials such as Node.js and Python, why not check
+    out [Docker Docs](https://docs.docker.com/develop/) for guides on getting started with your language, 
+    improving your builds, setting up CI/CD and more!

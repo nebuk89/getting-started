@@ -110,3 +110,8 @@ Dockerfile to do so. Once we built an image, we started the container and saw th
 
 Next, we're going to make a modification to our app and learn how to update our running application
 with a new image. Along the way, we'll learn a few other useful commands.
+
+!!! Pro Tip
+    To get started with different language specific tutorials such as Node.js and Python, why not check
+    out [Docker Docs](https://docs.docker.com/develop/) for guides on getting started with your language, 
+    improving your builds, setting up CI/CD and more!

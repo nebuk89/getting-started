@@ -112,3 +112,8 @@ shortly.
 how to see code updates without needing to rebuild and start a new container every time we make a change.
 
 Before talking about persistence, we'll quickly see how to share these images with others.
+
+!!! Pro Tip
+    To get started with different language specific tutorials such as Node.js and Python, why not check
+    out [Docker Docs](https://docs.docker.com/develop/) for guides on getting started with your language, 
+    improving your builds, setting up CI/CD and more!
